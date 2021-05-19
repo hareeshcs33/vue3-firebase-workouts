@@ -1,5 +1,4 @@
 # vue3-firebase-workouts
-# vue3-firebase-workouts
 
 ## Project setup
 ```
@@ -33,3 +32,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+npm install -g @vue/cli
+vue create project-name
+cd project-name
+npm run serve
+
